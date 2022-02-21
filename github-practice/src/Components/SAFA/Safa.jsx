@@ -8,4 +8,4 @@ const Safa = () => {
     );
 };
 
-export default Safa;
+export default Safa; 
