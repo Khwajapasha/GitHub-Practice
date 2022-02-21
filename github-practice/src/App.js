@@ -4,7 +4,7 @@ import Faizan from "./Components/FAIZAN/Faizan";
 function App() {
   return (
     <div className="App">
-      {/* <Testing /> */}
+      <Testing />
       <Faizan/>
     </div>
   );

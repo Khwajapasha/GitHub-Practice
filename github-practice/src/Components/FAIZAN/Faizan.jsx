@@ -3,7 +3,7 @@ import React from 'react';
 const Faizan = () => {
     return (
         <div>
-            <h1>Hello People</h1>
+            <h1>Hello People! How are you</h1>
         </div>
     );
 };
