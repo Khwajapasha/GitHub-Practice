@@ -1,9 +1,11 @@
 import "./App.css";
-import Testing from "./Components/KHWAJA/Testing";
+import Faizan from "./Components/FAIZAN/Faizan";
+// import Testing from "./Components/KHWAJA/Testing";
 function App() {
   return (
     <div className="App">
-      <Testing />
+      {/* <Testing /> */}
+      <Faizan/>
     </div>
   );
 }
