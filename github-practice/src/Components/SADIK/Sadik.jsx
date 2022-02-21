@@ -6,6 +6,7 @@ const Sadik = () => {
             <h1>Sadik</h1>
             <h1>Shaikh</h1>
             <h1>SS</h1>
+            <h1>sssssssss</h1>
         </div>
     );
 };
