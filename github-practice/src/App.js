@@ -1,9 +1,11 @@
 import "./App.css";
 import Faizan from "./Components/FAIZAN/Faizan";
-// import Testing from "./Components/KHWAJA/Testing";
+import Testing from "./Components/KHWAJA/Testing";
 import Testing from "./Components/SHAIKHJAVID/Testing";
 import Hamed from "./Components/HAMED/Hamed";
 import Testing from "./Components/KHWAJA/Testing";
+PDAC-4-SyedSohail
+import Sohail from "./Components/Sohail/Sohail";
 import Amrin from "./Components/AMRIN/Amrin";
 import Akram from "./Components/AKRAM/Akram";
 import Fariha from "./Components/FARIHA/Fariha";
@@ -18,10 +20,13 @@ import Mukassar from "./Components/MUKASSAR/Mukassar";
 import Amena from "./Components/AMENA/Amena";
 import AfrozSir from "./Components/AFROZ_SIR/AfrozSir";
 import ResolveConflict from "./Components/ResolveConflict/ResolveConflict";
+main
 function App() {
   return (
     <div className="App">
       <Testing />
+PDAC-4-SyedSohail
+      <Sohail />
 
       <ResolveConflict/>
       <Sameer/>
@@ -50,7 +55,7 @@ function App() {
       <Amena />
       <AfrozSir />
       
-
+main
     </div>
   );
 }
