@@ -1,8 +1,9 @@
 import "./App.css";
- PDAC-4-Abhi
 import Abhi from "./Components/KHWAJA/Abhi/Abhi";
 import Faizan from "./Components/FAIZAN/Faizan";
 import Testing from "./Components/KHWAJA/Testing";
+import Sadik from "./Components/SADIK/Sadik";
+import Latur from "./Components/Latur/Nand"
 import Testing from "./Components/SHAIKHJAVID/Testing";
 import Hamed from "./Components/HAMED/Hamed";
 import Testing from "./Components/KHWAJA/Testing";
@@ -27,7 +28,9 @@ function App() {
     <div className="App">
       <Abhi/>
       <Testing />
-      <Wajiha/>
+      <Sadik/>
+      <Latur/>
+     <Wajiha/>
       <Sameer />
       <Mukassar />
       <Ayman />
