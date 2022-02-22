@@ -1,4 +1,6 @@
 import "./App.css";
+ PDAC-4-Abhi
+import Abhi from "./Components/KHWAJA/Abhi/Abhi";
 import Faizan from "./Components/FAIZAN/Faizan";
 import Testing from "./Components/KHWAJA/Testing";
 import Testing from "./Components/SHAIKHJAVID/Testing";
@@ -22,6 +24,7 @@ import ResolveConflict from "./Components/ResolveConflict/ResolveConflict";
 function App() {
   return (
     <div className="App">
+      <Abhi/>
       <Testing />
  
       <Wajiha />
