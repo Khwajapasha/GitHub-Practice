@@ -5,7 +5,8 @@ const Testing = () => {
         <div>
             <h1>This is Testing Component</h1>
             <p>This is For You</p>
-            <p>hum tum</p>
+            <p>This Paragraph Componenet</p>
+            
            
         </div>
     );
