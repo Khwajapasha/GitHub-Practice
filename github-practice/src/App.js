@@ -1,9 +1,10 @@
 import "./App.css";
 import Faizan from "./Components/FAIZAN/Faizan";
-// import Testing from "./Components/KHWAJA/Testing";
+import Testing from "./Components/KHWAJA/Testing";
 import Testing from "./Components/SHAIKHJAVID/Testing";
 import Hamed from "./Components/HAMED/Hamed";
 import Testing from "./Components/KHWAJA/Testing";
+import Wajiha from "./Components/WAJIHA/Wajiha";
 import Amrin from "./Components/AMRIN/Amrin";
 import Akram from "./Components/AKRAM/Akram";
 import Fariha from "./Components/FARIHA/Fariha";
@@ -22,10 +23,13 @@ function App() {
   return (
     <div className="App">
       <Testing />
+ 
+      <Wajiha />
 
       <ResolveConflict/>
       <Sameer/>
       <Mukassar/>
+
 
       <Faizan/>
       <Hamed/>
@@ -40,7 +44,6 @@ function App() {
       <Azhar />
       <Akram />
       <Seema />
-
       <Fariha />
       <ShoebKhan />
       <Sameer />
@@ -49,8 +52,7 @@ function App() {
       <IrfanShah />
       <Amena />
       <AfrozSir />
-      
-
+   
     </div>
   );
 }
