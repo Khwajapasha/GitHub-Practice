@@ -1,4 +1,13 @@
 import "./App.css";
+ PDAC-4-ShaikhJavid
+// import Testing from "./Components/KHWAJA/Testing";
+import Testing from "./Components/SHAIKHJAVID/Testing";
+function App() {
+  return (
+    <div className="App">
+      {/* <Testing /> */}
+      <Testing/>
+
 import Hamed from "./Components/HAMED/Hamed";
 import Testing from "./Components/KHWAJA/Testing";
 import Amrin from "./Components/AMRIN/Amrin";
@@ -31,6 +40,7 @@ function App() {
       <IrfanShah />
       <Amena />
       <AfrozSir />
+ main
     </div>
   );
 }
