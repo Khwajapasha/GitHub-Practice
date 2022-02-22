@@ -1,6 +1,6 @@
 import React from 'react';
 
-const bushra = () => {
+const Bushra = () => {
     return (
         <div>
             <h1>helloooo!!!</h1>
@@ -8,4 +8,4 @@ const bushra = () => {
     );
 };
 
-export default bushra;
+export default Bushra;
