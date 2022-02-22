@@ -21,19 +21,25 @@ import Mukassar from "./Components/MUKASSAR/Mukassar";
 import Amena from "./Components/AMENA/Amena";
 import AfrozSir from "./Components/AFROZ_SIR/AfrozSir";
 import ResolveConflict from "./Components/ResolveConflict/ResolveConflict";
+import Ayman from "./Components/AYMAN/Ayman";
 function App() {
   return (
     <div className="App">
       <Abhi/>
       <Testing />
- 
-      <Wajiha />
-
-      <ResolveConflict/>
+      <Wajiha/>
+      <Sameer />
+      <Mukassar />
+      <Ayman />
+      <Faizan />
+      <Hamed />
+      <Wahaj />
+      <Amrin />
+      <Azhar />
+      <Akram />
+      <Seema />
       <Sameer/>
       <Mukassar/>
-
-
       <Faizan/>
       <Hamed/>
       <Wahaj/>
@@ -51,11 +57,9 @@ function App() {
       <ShoebKhan />
       <Sameer />
       <Mukassar />
-
       <IrfanShah />
       <Amena />
       <AfrozSir />
-   
     </div>
   );
 }
